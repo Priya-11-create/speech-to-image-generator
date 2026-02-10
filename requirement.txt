@@ -1,0 +1,4 @@
+SpeechRecognition
+pyaudio
+requests
+deep-translator
